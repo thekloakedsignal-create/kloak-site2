@@ -1,0 +1,12 @@
+{
+  "name": "goblin-hoard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-contained goblin clicker/idle game served as a static site.",
+  "scripts": {
+    "start": "serve . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
